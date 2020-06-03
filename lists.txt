@@ -4,3 +4,6 @@ cheese
 soup
 salad 
 breadsticks
+steak 
+shrimp
+orange juice
